@@ -1,0 +1,3 @@
+http://IDDCIULEIS010:5555/ws/AIAFBusinessServices.ws.provider.case360:getListImageCase360Ws/AIAFBusinessServices_ws_provider_case360_getListImageCase360Ws_Port?wsdl
+http://CGKDCPLCASE02B.aia.biz:8080/SonoraBeans?wsdl
+
