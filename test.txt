@@ -1,3 +1,36 @@
-http://IDDCIULEIS010:5555/ws/AIAFBusinessServices.ws.provider.case360:getListImageCase360Ws/AIAFBusinessServices_ws_provider_case360_getListImageCase360Ws_Port?wsdl
-http://CGKDCPLCASE02B.aia.biz:8080/SonoraBeans?wsdl
-
+<?xml version='1.0' encoding='UTF-8'?>
+<soapenv:Envelope
+    xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+    <soapenv:Body>
+        <ser-root:getListImageCase360Response
+            xmlns:ser-root="http://IDDCIULEIS010/AIAFBusinessServices.adapters.case360"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+            <getListImageCase360Output>
+                <resultOutput>
+                    <policy_num>22563831</policy_num>
+                    <DOCUMENTID>477576</DOCUMENTID>
+                    <DG_DOC_NAME>10513371_0104.pdf</DG_DOC_NAME>
+                    <DOC_TYPE_CODE>0104</DOC_TYPE_CODE>
+                    <DOC_TYPE>Copy Polis</DOC_TYPE>
+                    <DATE_RECEIVED>2019-10-03</DATE_RECEIVED>
+                </resultOutput>
+                <resultOutput>
+                    <policy_num>22563831</policy_num>
+                    <DOCUMENTID>477585</DOCUMENTID>
+                    <DG_DOC_NAME>10069797_0105.pdf</DG_DOC_NAME>
+                    <DOC_TYPE_CODE>0105</DOC_TYPE_CODE>
+                    <DOC_TYPE>Welcome Letter</DOC_TYPE>
+                    <DATE_RECEIVED>2019-10-03</DATE_RECEIVED>
+                </resultOutput>
+                <resultOutput>
+                    <policy_num>22563831</policy_num>
+                    <DOCUMENTID>481064</DOCUMENTID>
+                    <DG_DOC_NAME>20167401_0106.pdf</DG_DOC_NAME>
+                    <DOC_TYPE_CODE>0106</DOC_TYPE_CODE>
+                    <DOC_TYPE>Transaction Statement</DOC_TYPE>
+                    <DATE_RECEIVED>2017-11-13</DATE_RECEIVED>
+                </resultOutput>
+            </getListImageCase360Output>
+        </ser-root:getListImageCase360Response>
+    </soapenv:Body>
+</soapenv:Envelope>
