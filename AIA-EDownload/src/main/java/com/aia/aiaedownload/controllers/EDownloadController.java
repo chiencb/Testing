@@ -1,6 +1,6 @@
 package com.aia.aiaedownload.controllers;
 
-import com.aia.aiaedownload.dto.EDocumentImageDTO;
+import com.aia.aiaedownload.generated.aiafbusinessservices.ResultOutput;
 import com.aia.aiaedownload.services.EDownloadService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -15,7 +15,7 @@ import java.util.List;
 @CrossOrigin
 @RestController
 @RequestMapping("/edownload")
-@Description("APIs for Testing")
+@Description("APIs for EDownload document")
 public class EDownloadController {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(EDownloadController.class);
@@ -24,7 +24,7 @@ public class EDownloadController {
     private EDownloadService eDownloadService;
 
     @PostMapping("getListEDocument")
-    public ResponseEntity<List<EDocumentImageDTO>> getListEDocument(@RequestParam() String policyNumber) {
+    public ResponseEntity<List<ResultOutput>> getListEDocument(@RequestParam() String policyNumber) {
         return ResponseEntity.ok(eDownloadService.getListEDocument(policyNumber));
     }
 
