@@ -85,30 +85,6 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
-            <plugin>
-				<groupId>org.codehaus.mojo</groupId>
-				<artifactId>jaxws-maven-plugin</artifactId>
-				<configuration>
-					<wsdlUrls>
-						<wsdlUrl>http://IDDCIULEIS010:5555/ws/AIAFBusinessServices.adapters.case360:getListImageCase360_WSD/AIAFBusinessServices_adapters_case360_getListImageCase360_WSD_Port?wsdl</wsdlUrl>
-					</wsdlUrls>
-					<keep>true</keep>
-					<packageName>com.aia.aiaedownload.generated.aiafbusinessservices</packageName>
-					<sourceDestDir>src/main/java</sourceDestDir>
-				</configuration>
-			</plugin>
-            <!-- <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>jaxws-maven-plugin</artifactId>
-                <configuration>
-                    <wsdlUrls>
-                        <wsdlUrl>http://CGKDCQLCASE01.aia.biz:8080/SonoraBeans?wsdl</wsdlUrl>
-                    </wsdlUrls>
-                    <keep>true</keep>
-                    <packageName>com.aia.aiaedownload.generated.case360</packageName>
-                    <sourceDestDir>src/main/java</sourceDestDir>
-                </configuration>
-            </plugin> -->
         </plugins>
     </build>
 
