@@ -1,1 +1,223 @@
-https://maven.java.net/content/repositories/releases/org/glassfish/jaxb/txw2/2.4.0-b180608.0325/txw2-2.4.0-b180608.0325.pom
+{
+  "message": "Get list eDocument success",
+  "responseCode": "00",
+  "status": "SUCCESS",
+  "data": [
+    {
+      "policyNum": "22563831",
+      "documentid": "477576",
+      "dgdocname": "10513371_0104.pdf",
+      "doctypecode": "0104",
+      "doctype": "Copy Polis",
+      "datereceived": "2019-10-03"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "477585",
+      "dgdocname": "10069797_0105.pdf",
+      "doctypecode": "0105",
+      "doctype": "Welcome Letter",
+      "datereceived": "2019-10-03"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "481064",
+      "dgdocname": "20167401_0106.pdf",
+      "doctypecode": "0106",
+      "doctype": "Transaction Statement",
+      "datereceived": "2017-11-13"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743603",
+      "dgdocname": "Testing File - 0104 - EPolicy 22563831.pdf",
+      "doctypecode": "0104",
+      "doctype": "KTP",
+      "datereceived": "2022-12-08"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743604",
+      "dgdocname": "Testing File - 0105 - Welcome Letter 22563831.pdf",
+      "doctypecode": "0105",
+      "doctype": "Kartu Kredit",
+      "datereceived": "2022-12-08"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743605",
+      "dgdocname": "Testing File - 0106 - Transaction History (1) 22563831.pdf",
+      "doctypecode": "0106",
+      "doctype": "KTP Beneficial Owner",
+      "datereceived": "2022-12-08"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743606",
+      "dgdocname": "Testing File - 1300 - Medical Record (1) 22563831.pdf",
+      "doctypecode": "1300",
+      "doctype": "illustrasi NB",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743607",
+      "dgdocname": "Testing File - 1300 - Medical Record (2) 22563831.pdf",
+      "doctypecode": "1300",
+      "doctype": "Surat kuasa Pendebetan Rekening Tabungan untuk Premi / Kontribusi Lanjutan",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743608",
+      "dgdocname": "Testing File - 1300 - Medical Record (3) 22563831.pdf",
+      "doctypecode": "1300",
+      "doctype": "Surat Pernyataan PAYDI",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743609",
+      "dgdocname": "Testing File - ANST - Annual Statement (1) 22563831.pdf",
+      "doctypecode": "ANST",
+      "doctype": "Ringkasan Konsultasi",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743610",
+      "dgdocname": "Testing File - ANST - Annual Statement (2) 22563831.pdf",
+      "doctypecode": "ANST",
+      "doctype": "Surat Pengajuan Asuransi Jiwa",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743611",
+      "dgdocname": "Testing File - DTA - JPG Format 22563831.jpg",
+      "doctypecode": "DTA",
+      "doctype": "Naskah Video PAYDI",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743612",
+      "dgdocname": "Testing File - DTD - PNG Format 22563831.png",
+      "doctypecode": "DTD",
+      "doctype": "KTP",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743613",
+      "dgdocname": "Testing File - DTST - Transaction History (2) 22563831.pdf",
+      "doctypecode": "DTST",
+      "doctype": "Copy ATM",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743614",
+      "dgdocname": "Testing File - TAXA - Laporan Nilai Akhir Tahun (1) 22563831.pdf",
+      "doctypecode": "TAXA",
+      "doctype": "Vitality Consent Form Traditional – 1st IP",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743662",
+      "dgdocname": "Testing File - 0104 - EPolicy 20084951.pdf",
+      "doctypecode": "0104",
+      "doctype": "Surat Pernyataan PAYDI",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743663",
+      "dgdocname": "Testing File - 0105 - Welcome Letter 20084951.pdf",
+      "doctypecode": "0105",
+      "doctype": "Ringkasan Konsultasi",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743664",
+      "dgdocname": "Testing File - 0106 - Transaction History (1) 20084951.pdf",
+      "doctypecode": "0106",
+      "doctype": "Surat Pengajuan Asuransi Jiwa",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743665",
+      "dgdocname": "Testing File - 0106 - Transaction History (2) 20084951.pdf",
+      "doctypecode": "0106",
+      "doctype": "KTP",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743666",
+      "dgdocname": "Testing File - 1300 - Medical Record (1) 20084951.pdf",
+      "doctypecode": "1300",
+      "doctype": "Vitality Consent Form Traditional – 1st IP",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743667",
+      "dgdocname": "Testing File - 1300 - Medical Record (2) 20084951.pdf",
+      "doctypecode": "1300",
+      "doctype": "illustrasi NB",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743668",
+      "dgdocname": "Testing File - ANST - Annual Statement (1) 20084951.pdf",
+      "doctypecode": "ANST",
+      "doctype": "Surat Kuasa Debit Kartu Kredit",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743669",
+      "dgdocname": "Testing File - DTB - JPG Format 20084951.jpg",
+      "doctypecode": "DTB",
+      "doctype": "Surat Pernyataan PAYDI",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743670",
+      "dgdocname": "Testing File - DTC - PNG Format 20084951.png",
+      "doctypecode": "DTC",
+      "doctype": "Ringkasan Konsultasi",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743671",
+      "dgdocname": "Testing File - DTST - Transaction History (3) 20084951.pdf",
+      "doctypecode": "DTST",
+      "doctype": "Surat Pengajuan Asuransi Jiwa",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743672",
+      "dgdocname": "Testing File - TAXA - Laporan Nilai Akhir Tahun (1) 20084951.pdf",
+      "doctypecode": "TAXA",
+      "doctype": "KTP",
+      "datereceived": "2022-12-09"
+    },
+    {
+      "policyNum": "22563831",
+      "documentid": "743673",
+      "dgdocname": "Testing File - TAXA - Laporan Nilai Akhir Tahun (2) 20084951.pdf",
+      "doctypecode": "TAXA",
+      "doctype": "Kartu Kredit",
+      "datereceived": "2022-12-09"
+    }
+  ]
+}
