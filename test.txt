@@ -1,3 +1,7 @@
+
+        + http://IDDCIULEIS010:5555/ws/AIAFBusinessServices.ws.provider.case360:getListImageCase360Ws/AIAFBusinessServices_ws_provider_case360_getListImageCase360Ws_Port for integrate with AIAFBusinessServices
+        + http://CGKDCPLCASE02B.aia.biz:8080/SonoraBeans for integrate with Case360
+
 {
   "message": "Get list eDocument success",
   "responseCode": "00",
